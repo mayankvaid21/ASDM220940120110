@@ -22,6 +22,11 @@ public class GreaterNumber {
             System.out.println("Both numbers are equal");
         }
 
+        //MODIFICATIONS MADE TO FILE **AFTER** PUSHING FILE ON GIT.
+
+        System.out.println("This is a new line added after moving git project file on github");
+
+
         scan.close();
 
     }
